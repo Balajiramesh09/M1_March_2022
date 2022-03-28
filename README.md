@@ -1,3 +1,3 @@
 # EMPLOYEE RECORD MANAGEMENT SYSTEM
 
-![012-1200x600](https://user-images.githubusercontent.com/101571637/160358815-c26ee9c6-5c99-45af-8db7-0d08dc3b71c5.jpg)
+![Centralized-Employee-Records-1200x861](https://user-images.githubusercontent.com/101571637/160441625-5b927e43-b043-4584-9ff8-5ddd2ff32beb.png)
