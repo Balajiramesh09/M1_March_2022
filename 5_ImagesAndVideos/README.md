@@ -1,6 +1,4 @@
-# OUTPUT IMAGES
 
-<h2>ADDITION OPERATION</h2>
 
 
 
