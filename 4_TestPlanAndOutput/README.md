@@ -204,4 +204,4 @@
 </html>
 
 
-* Added all the files which are related to test plan and test output.
+* This folder contains documents with test plans and procedures with regard to project.
