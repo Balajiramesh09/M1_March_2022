@@ -30,10 +30,70 @@ The inputs includes the commands which as we can give numbers based on the opera
 
 * Codiga Analysis: 
           ![Codiga](https://user-images.githubusercontent.com/101571637/161102877-9ff9c3a7-d7d4-4eb3-9f8a-5ad241495306.png)
+          
+         
+* Build Analysis: 
+
+    ![C/C++ CI](https://github.com/Balajiramesh09/M1_March_2022/actions/workflows/c-cpp.yml/badge.svg) 
+    
+    
+* GIT inspector Analysis:
+
+  [![Contribution Check - Git Inspector](https://github.com/Balajiramesh09/M1_March_2022/actions/workflows/codeinspector.yml/badge.svg)](https://github.com/Balajiramesh09/M1_March_2022/actions/workflows/codeinspector.yml)    
 
 
 
+* Code Quality Score Analysis:
 
+     [![Static Code Quality- Cppcheck](https://github.com/Balajiramesh09/M1_March_2022/actions/workflows/cpp.yml/badge.svg)](https://github.com/Balajiramesh09/M1_March_2022/actions/workflows/cpp.yml)
+
+
+
+<h1> FOLDER STRUCTURE IMPLEMENTATION</h1>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+	<table>
+		<thead>
+			<tr>
+				<th>FOLDER</th>
+				<th>DESCRIPTION</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>&nbsp;<span style="font-size: 14px;">0_Certificates</span></td>
+				<td>This folder contais the pre-requsite course completion certificates&nbsp;</td>
+			</tr>
+			<tr>
+				<td><span style="font-size: 14px;">1_Requirements</span></td>
+				<td>This folder contains documents detailing requirements and research with regard to project&nbsp;<br></td>
+			</tr>
+			<tr>
+				<td>2_Architecture</td>
+				<td>This folder contains documents specifying design details with regard to project&nbsp;<br></td>
+			</tr>
+			<tr>
+				<td><span style="font-size: 14px;">3_Implementation</span></td>
+				<td>This folder contains all codes and documentation of the project&nbsp;<br></td>
+			</tr>
+			<tr>
+				<td>4_TestPlanAndOutput</td>
+				<td>This folder contains documents with test plans and procedures with regard to project<br></td>
+			</tr>
+			<tr>
+				<td>5_ImagesAndVideos</td>
+				<td>This folder contains all the output files of the project&nbsp;</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>
 
 
 
