@@ -111,3 +111,6 @@ The switch-case statement is used to write a simple calculator program in C lang
 	</table>
 </body>
 </html>
+
+
+* This folder contains documents detailing requirements and research with regard to project 
