@@ -1,7 +1,11 @@
 <h1>TEST PLAN AND OUTPUT:</h1>
 
 
+
+
 <h2>HIGH LEVEL TEST PLAN:</h2>
+
+
 
 
 <!DOCTYPE html>
@@ -58,7 +62,12 @@
 </html>
 
 
+
+
+
 <h2>LOW LEVEL TEST PLAN:</h2>
+
+
 
 <!DOCTYPE html>
 
