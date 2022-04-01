@@ -1,1 +1,1 @@
-@Mainpage Basic Calculator By Balaji Ramesh @Subpage  documentation_main.md
+@Mainpage Basic Calculator By Balajiramesh09 @Subpage  documentation_main.md
