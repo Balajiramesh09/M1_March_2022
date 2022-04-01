@@ -1,5 +1,5 @@
 # BASIC CALCULATOR 
-![istockphoto-1078399204-612x612](https://user-images.githubusercontent.com/101571637/161103558-4c4f3f88-f2c9-4d62-8716-fa8752c08b8c.jpg)
+![calc](https://user-images.githubusercontent.com/101571637/161236457-81efbe21-2255-48a4-9395-710d4eaaa544.png)
 
 
 
