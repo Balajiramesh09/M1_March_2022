@@ -6,7 +6,7 @@
 <h1>INTRODUCTION:</h1>
 
 Basic Calculator ia a project which allow users to calculate the four basic operations in mathematics such as addition, subtraction, multiplication and division but in this Project which I am implementing also includes three additional fundamental scientific operations such as calculating Factorial, Power and Modulas operations.
-The inputs includes the commands which as we can give numbers based on the operation for example, in  addition opoeration if we give 1 as a command and that particular operation works. However, this calculator is smart enough to operate multiplication / division before addition / subtraction / factorial / power / modulas, in another words it is implemented with the order of precedence logic.
+The inputs includes the commands which as we can give numbers based on the operation for example, in  addition opoeration if we give 1 as a command and that particular operation works. However, this calculator is smart enough to operate multiplication / division before addition / subtraction / factorial / power / modulus, in another words it is implemented with the order of precedence logic.
 
 
 
@@ -20,6 +20,21 @@ The inputs includes the commands which as we can give numbers based on the opera
 * (/) -> divide (for division of two operands)
 * (%) -> mod (for calculating modulas of two operands)
 * (^) -> exponentiation (for calculating the power of an operand)
+
+
+<h1>LIMITATIONS:</h1>
+
+This calculator performs just basic operations like addition, subtraction, multiplication and division, but can be developed to perform functions like calculating trignometic functions, power function, factorial functions, square root function, modulus funtion, cube root function
+
+* Error messages can be improved.
+* Input parser does not recognize negative the  numbers. But however, easy way is to write "(0-1)" instead of directly writing "-1".
+* It supports integer arithmetics.
+* Unary operator is not supported but can be implemented. However that unary operator concept is little advanced for this project and it is also beyond this project's scope.
+
+Reference Link: 
+* https://www.javatpoint.com/unary-operator-in-c
+* https://www.geeksforgeeks.org/unary-operators-cc/
+* https://www.tutorialspoint.com/unary-operators-in-c-cplusplus
 
 
 <h1>SDLC ACTIVITY BASED LEARNING:</h1>
