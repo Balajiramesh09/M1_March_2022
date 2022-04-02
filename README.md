@@ -27,9 +27,7 @@ The inputs includes the commands which as we can give numbers based on the opera
 This calculator performs just basic operations like addition, subtraction, multiplication and division, but can be developed to perform functions like calculating trignometic functions, power function, factorial functions, square root function, modulus funtion, cube root function
 
 * Error messages can be improved.
-* Input parser does not recognize negative the  numbers. But however, easy way is to write "(0-1)" instead of directly writing "-1".
 * It supports integer arithmetics.
-* Unary operator is not supported but can be implemented. However that unary operator concept is little advanced for this project and it is also beyond this project's scope.
 
 Reference Link: 
 * https://www.javatpoint.com/unary-operator-in-c
