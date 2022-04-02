@@ -28,6 +28,50 @@ The switch-case statement is used to write a simple calculator program in C lang
 
 
 
+<h1>4W's AND 1H</h1>
+
+
+<H2>WHO:</H2>
+
+* The project can be used by almost all the people. At the end,user satisfaction is the goal of the project.
+
+
+<h2>WHAT:</h2>
+
+* Addition, subtraction, multiplication and division operations can be performed by this system without manual usage of calculators.
+
+
+<h2>WHEN:</h2>
+
+* This project can be used when the user needs or feels to perform a basic mathematical operation.
+
+
+<h2>WHERE:</h2>
+
+* The calculator is an essential application in our day to day life. Schools, Organizations, Government organizations they all can use this application in their day to day life activities for perfroming basic calculations.
+
+
+<h2>HOW:</h2>
+
+* The System design is a solution for how to approach to the creation of a new system. It translates system requirements into ways by which they can be made operational. It is a translational from a user oriented document to a document oriented programmers. For that, it provides the understanding and procedural details necessary for the implementation. The system thus made should be reliable, durable and above all should have least possible maintenance costs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
